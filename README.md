@@ -1,36 +1,36 @@
-# HR-Analytics-Dashboard (Interactive Dashboard creating Using Microsoft Excel)
+# HR-Analytics-Dashboard (Pembuatan Dashboard Interaktif dengan Menggunakan Microsoft Excel)
 
-## Project Objective
-The HR department is responsible for monitoring and managing various aspects of employee data to ensure the organization maintains a healthy workforce. However, there is a lack of clear performance indicators to track and analyze key HR metrics
+## Tujuan Projek
+Departemen HR bertanggung jawab untuk memantau dan mengelola berbagai aspek data karyawan guna memastikan organisasi mempertahankan tenaga kerja yang sehat. Namun, terdapat kekurangan indikator kinerja yang jelas untuk melacak dan menganalisis metrik utama HR.
 
-## Dataset Used
+## Dataset yang Digunakan
 - <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20DATA_Excel.xlsx">Dataset</a>
 
-## KPI's Requirement
-1.	**Employee Count**
-The HR department lacks visibility into the total number of employees, making it challenging to assess workforce size and a plan for future growth or downsizing effectively
-2. **Attrition Count**
-The organization lacks a standardized method to track employee attrition, resulting in incomplete and unreliable data on the number of employees who have left the organization
-3. **Attrition Rate**
-Without a clear measure of attrition rate, the organization cannot assess the overall turnover lever or compare it with industry benchmarks, hindering the ability to gauge employee satisfaction and engagement.
-4.	**Active Employee**
-The organization lacks a mechanism to differentiate between active employees, leading to difficulties in accurately assessing the current workforce’s productivity and capacity.
-5.	**Average Age**
-The HR department lacks visibility into the average age of employees, making it difficult to evaluate workforce demographics, succession planning, and the organization’s ability to attract and retain younger talent
+## Persyaratan KPI
+1.	**Jumlah Karyawan (_Employee Count_)**
+Departemen HR tidak memiliki visibilitas yang jelas terhadap total jumlah karyawan, sehingga sulit untuk menilai ukuran tenaga kerja serta merencanakan pertumbuhan atau pengurangan tenaga kerja secara efektif.
+2. **Jumlah Karyawan yang Keluar (_Attrition Count_)**
+Organisasi tidak memiliki metode standar untuk melacak jumlah karyawan yang keluar, yang mengakibatkan data yang tidak lengkap dan kurang dapat diandalkan mengenai jumlah karyawan yang telah meninggalkan organisasi.
+3. **Tingkat Pergantian Karyawan (_Attrition Rate_)**
+Tanpa ukuran yang jelas untuk tingkat pergantian karyawan, organisasi tidak dapat menilai tingkat turnover secara keseluruhan atau membandingkannya dengan standar industri. Hal ini menghambat kemampuan dalam mengukur kepuasan dan keterlibatan karyawan.
+4.	**Karyawan Aktif (_Active Employee_)**
+Organisasi tidak memiliki mekanisme yang jelas untuk membedakan antara karyawan aktif, sehingga sulit untuk menilai produktivitas dan kapasitas tenaga kerja saat ini secara akurat.
+5.	**Usia Rata-rata (_Average Age_)**
+Departemen HR tidak memiliki visibilitas terhadap usia rata-rata karyawan, sehingga sulit untuk mengevaluasi demografi tenaga kerja, merencanakan suksesi, serta menilai kemampuan organisasi dalam menarik dan mempertahankan talenta muda.
 
-## Chart Requirement
-1. **Attrition by Gender**
-The HR department faces challenges in understanding the attrition patterns based on gender, making it difficult to identify any gender-related disparities and implement targeted retention strategies.
-2. **Department-wise Attrition**
-The HR department lacks visualization to showcase attrition rates across different departments. The hinders their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively
-3.	**Number of employees by Age Group**
-The HR departments requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR polities or programs.
-4.	**Jobs Satisfaction Ratings**
-The HR departments lacks visualization to represent job satisfaction ratings, hindering their ability to measure employee engagement and overall job satisfaction levels effectively
-5.	**Education Field-wise Attrition**
-The HR department requires visual representations to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly
-6.	**Attrition Rate by Gender for Different Age Groups**
-The HR departments lacks visualization that display attrition rates based on Gender and different age groups. This make it challenging to identify any aged and gender-related attrition trends, preventing the organization from implementing targeted retention strategies for specific employee segments
+## Persyaratan Grafik
+1. **Tingkat Pergantian Karyawan berdasarkan Gender (_Attrition by Gender_)**
+Departemen HR menghadapi kesulitan dalam memahami pola pergantian karyawan berdasarkan gender, sehingga sulit untuk mengidentifikasi kesenjangan terkait gender dan menerapkan strategi retensi yang tepat.
+2. **Tingkat Pergantian Karyawan berdasarkan Departemen (_Department-wise Attrition_)**
+Departemen HR tidak memiliki visualisasi untuk menampilkan tingkat pergantian karyawan di berbagai departemen. Hal ini menghambat kemampuan mereka dalam mengidentifikasi departemen dengan tingkat pergantian yang tinggi serta menangani masalah atau kekhawatiran yang mendasarinya secara efektif.
+3.	**Jumlah Karyawan berdasarkan Kelompok Usia (_Number of employees by Age Group_)**
+Departemen HR memerlukan representasi visual untuk menganalisis distribusi karyawan berdasarkan kelompok usia. Hal ini membantu dalam menilai demografi tenaga kerja, mengidentifikasi kesenjangan atau ketidakseimbangan usia, serta menerapkan kebijakan atau program HR yang lebih tepat sasaran.
+4.	**Peringkat Kepuasan Kerja (_Jobs Satisfaction Ratings_)**
+Departemen HR tidak memiliki visualisasi yang menampilkan peringkat kepuasan kerja, sehingga menyulitkan mereka dalam mengukur keterlibatan karyawan dan tingkat kepuasan kerja secara keseluruhan.
+5.	**Tingkat Pergantian Karyawan berdasarkan Bidang Pendidikan (_Education Field-wise Attrition_)**
+Departemen HR memerlukan visualisasi untuk menganalisis tingkat pergantian karyawan berdasarkan bidang pendidikan. Hal ini membantu dalam mengidentifikasi latar belakang pendidikan tertentu yang mungkin memiliki tingkat pergantian lebih tinggi, sehingga memungkinkan organisasi untuk menyesuaikan strategi retensi dengan lebih efektif.
+6.	**Tingkat Pergantian Karyawan berdasarkan Gender dan Kelompok Usia (_Attrition Rate by Gender for Different Age Groups_)**
+Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian karyawan berdasarkan gender dan kelompok usia. Hal ini menyulitkan dalam mengidentifikasi tren pergantian karyawan yang terkait dengan usia dan gender, sehingga menghambat organisasi dalam menerapkan strategi retensi yang lebih spesifik untuk segmen karyawan tertentu.
 
 
 
