@@ -32,6 +32,14 @@ Departemen HR memerlukan visualisasi untuk menganalisis tingkat pergantian karya
 6.	**Tingkat Pergantian Karyawan berdasarkan Gender dan Kelompok Usia (_Attrition Rate by Gender for Different Age Groups_)**
 Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian karyawan berdasarkan gender dan kelompok usia. Hal ini menyulitkan dalam mengidentifikasi tren pergantian karyawan yang terkait dengan usia dan gender, sehingga menghambat organisasi dalam menerapkan strategi retensi yang lebih spesifik untuk segmen karyawan tertentu.
 
+## Interaksi Dashboard
+<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
+
+## Dashboard
+<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">Dashboard</a>
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/43349a56-0a28-4f02-91bb-c95e91aea4d0)
+
+
 
 
 
