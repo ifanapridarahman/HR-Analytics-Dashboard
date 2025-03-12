@@ -44,7 +44,9 @@ Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian kar
 - **Insight** : Tidak ada perbedaan besar antara gender, tetapi didominasi laki-laki lebih tinggi.
 2. **Attrition Berdasarkan pendidikan** : Karyawan dengan Gelar Sarjana memiliki tingkat attrition tertinggi (99 orang), disusul oleh Gelar Master (58 orang) dan Associate Degree (44 orang) dan karyawan dengan Gelar Doktor (5 orang) memiliki attrition paling rendah.
 - **Insight** : Bisa jadi karyawan dengan tingkat pendidikan lebih tinggi memiliki ekpektaso karier yang lebih tinggi atau mencari peluang lain
-
+3. **Attrition Berdasarkan Job** : Sales Executive memiliki tingkat attrition tertinggi, dan disusul dengan posisi Research Scientist
+  - **Insight** : Bisa jadi karena pekerjaan di bidang penjualan dan penelitian memliki tingkat stres atau tekanan kerja yang lebih tinggi
+4. Attrition Berdasarkan Departement : Departement 
 
 
 
