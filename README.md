@@ -39,6 +39,12 @@ Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian kar
 <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">Dashboard</a>
 ![HR Analytics Dashboard](https://github.com/user-attachments/assets/43349a56-0a28-4f02-91bb-c95e91aea4d0)
 
+## Insight
+1. **Komposisi Karyawan Berdasarkan Gender** : 40 % Karyawan Perempuan, 60% karyawan Laki-laki.
+**Insight** : Tidak ada perbedaan besar antara gender, tetapi didominasi laki-laki lebih tinggi.
+2. **Attrition Berdasarkan pendidikan** : Karyawan dengan Gelar Sarjana memiliki tingkat attrition tertinggi (99 orang), disusul oleh Gelar Master (58 orang) dan Associate Degree (44 orang) dan karyawan dengan Gelar Doktor (5 orang) memiliki attrition paling rendah.
+**Insight** : Bisa jadi karyawan dengan tingkat pendidikan lebih tinggi memiliki ekpektaso karier yang lebih tinggi atau mencari peluang lain
+
 
 
 
