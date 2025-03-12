@@ -36,8 +36,8 @@ Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian kar
 <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
 
 ## Dashboard
-<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">Dashboard</a>
-![HR Analytics Dashboard](https://github.com/user-attachments/assets/43349a56-0a28-4f02-91bb-c95e91aea4d0)
+<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard-Excel/blob/main/HR%20Analytics%20Dashboard_Excel.png">Dashboard</a>
+![HR Analytics Dashboard_Excel](https://github.com/user-attachments/assets/037bc473-7a93-44c6-8c10-ae0bf542750f)
 
 ## Insight
 1. **Komposisi Karyawan Berdasarkan Gender** : 40 % Karyawan Perempuan, 60% karyawan Laki-laki.
