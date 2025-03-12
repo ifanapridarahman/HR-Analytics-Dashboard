@@ -46,7 +46,20 @@ Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian kar
 - **Insight** : Bisa jadi karyawan dengan tingkat pendidikan lebih tinggi memiliki ekpektaso karier yang lebih tinggi atau mencari peluang lain
 3. **Attrition Berdasarkan Job** : Sales Executive memiliki tingkat attrition tertinggi, dan disusul dengan posisi Research Scientist
   - **Insight** : Bisa jadi karena pekerjaan di bidang penjualan dan penelitian memliki tingkat stres atau tekanan kerja yang lebih tinggi
-4. Attrition Berdasarkan Departement : Departement 
+4. **Attrition Berdasarkan Departement** : Departement R&D (56,12%), diikuti oleh Departement Sales (38,82%), dan Departemen HR memiliki tingkat attrition paling rendah (5,05%).
+- **Insight** : Mungkin ada faktor tekanan kerja atau kurangnya kepuasan kerja di departemen dengan attrition tinggi
+5. **Attrition Berdasarkan Kelompok Usia** : Karyawan usia 25-34 tahun memiliki tingkat attition tertinggi (112 orang) diikuti oleh kelompok usia 35-44 tahun (51 orang)
+- **Insight** : Karyawan muda lebih mungkin mencari peluang kerja lain dibandingkan karyawan yang lebih senior dan stabil
+6. **Attrition Berdasarkan Status Pernikahan** : Karyawan lajang memiliki tingkat attrition tertinggi (120 orang)
+- **Insight** : Bisa jadi karyawan lajang lebih fleksibel dalam berpindah pekerjaan atau mencari pengalaman baru
+7. Kepuasan Kerja : Rata-rata kepuasan kerja hanya 2,6 dari 5. Ini menunjukkan bahwa banyak karyawan mungkin merasa kurang puas dengan pekerjaan mereka
+- Insight : Perlu ada strategi untuk meningkatkan kepuasan kerja, seperti peningkatan kesejahteraan, peluang pengembangan karir, atau budaya kerja yang lebih baik
+
+## Kesimpulan dan Rekomendasi
+- Attrition tinggi di departemen R&D dan Sales -> Perlu evaluasi lebih lanjut terhadap faktor penyebabnya (beban kerja, kompensasi, atau peluang promosi)
+- Karyawan usia 25-34 tahun lebih sering keluar -> Bisa jadi mereka mencari jenjang karir lebih baik, perusaan dapat meningkatkan retensi dengan program pengembangan karyawan
+- Karyawan lajang memiliki attrition yang tinggi -> Mungkin mereka lebih fleksibel dalam mencari peluang kerja, sehingga perlu strategi engagement yang lebih baik
+- Tingkat kepuasan kerja rendah (2,6/5) -> Perusahaan bisa meningkatkan kesejahteraan karyawan, sistem reward, atau peluang promosi untuk meningkatkan retensi.
 
 
 
