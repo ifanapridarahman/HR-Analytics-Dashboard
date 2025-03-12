@@ -4,7 +4,7 @@
 Departemen HR bertanggung jawab untuk memantau dan mengelola berbagai aspek data karyawan guna memastikan organisasi mempertahankan tenaga kerja yang sehat. Namun, terdapat kekurangan indikator kinerja yang jelas untuk melacak dan menganalisis metrik utama HR.
 
 ## Dataset yang Digunakan
-- <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20DATA_Excel.xlsx">Dataset</a>
+- <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard-Excel/blob/main/HR%20DATA_Excel_new.xlsx">Dataset</a>
 
 ## Persyaratan KPI
 1.	**Jumlah Karyawan (_Employee Count_)**
@@ -33,7 +33,7 @@ Departemen HR memerlukan visualisasi untuk menganalisis tingkat pergantian karya
 Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian karyawan berdasarkan gender dan kelompok usia. Hal ini menyulitkan dalam mengidentifikasi tren pergantian karyawan yang terkait dengan usia dan gender, sehingga menghambat organisasi dalam menerapkan strategi retensi yang lebih spesifik untuk segmen karyawan tertentu.
 
 ## Interaksi Dashboard
-<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
+<a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard-Excel/blob/main/HR%20DATA_Excel_new.xlsx">View Dashboard</a>
 
 ## Dashboard
 <a href="https://github.com/ifanapridarahman/HR-Analytics-Dashboard-Excel/blob/main/HR%20Analytics%20Dashboard_Excel.png">Dashboard</a>
